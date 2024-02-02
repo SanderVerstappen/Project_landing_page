@@ -1,0 +1,30 @@
+body {
+  border: 5px solid red;
+  min-height: 100vh;
+  margin: 0;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+
+}
+
+
+.hero {
+  background-color: #1F2937;
+}
+
+.information-panel {
+  background-color: white;
+}
+
+.quote-panel {
+  background-color: #E5E7EB;
+}
+
+.action-panel {
+  background-color: white;
+}
